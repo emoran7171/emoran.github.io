@@ -1,10 +1,10 @@
-primary_name: "Your Name"
+primary_name: "Emma Moran"
 secondary_name: ""
-navbar_name: "Your Name"
+navbar_name: "Emma Moran"
 
 positions:
-- name: Title or Position
-- name: Affiliation Name
+- name: Ph.D. Student
+- name: The Ohio State Univerisity 
   logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
 
 
