@@ -32,16 +32,16 @@ portrait_caption: >-
   Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
 
 education:
-- name: Massachusetts Institute of Technology
+- name: The Ohio State University
   logo: /assets/images/badges/MIT_Social_circle.png
   position: >- 
-    Department of Electrical Engineering and Computer Science <br/>
+    Department of Astronomy <br/>
     Ph.D. Student
   date: Sep. 2024 - present
-- name: Peking University
+- name: The University of Pittsburgh
   logo: /assets/images/badges/PKU_red.png
-  position: B.S. in Computer Science
-  date: Sep. 2019 - Jul. 2021
+  position: B.S. in Physics & Astronomy, Certificate in Science Communications
+  date: Aug. 2021 - Apr. 2025
 
 # experience:
 # - name: Peking University
@@ -50,8 +50,8 @@ education:
 #   date: Sep. 2019 - Jul. 2021
 
 awards:
-- name: Award Name 2
-  date: 2024
+- name: National Science Foundation Graduate Research Fellowship
+  date: 2026
 - name: Award Name 1 
   date: 2021
 - name: A quick brown fox jumps over the lazy dog and runs away award
