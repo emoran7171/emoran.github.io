@@ -10,7 +10,7 @@ selected:       true
 pub_date:       "2026"
 
 abstract: >-
-# cover:          /assets/images/covers/cover3.jpg
+cover:          /assets/images/covers/images_NEBP.png
 authors:
   - Deskevich, Giana
   - Bach, Norris
