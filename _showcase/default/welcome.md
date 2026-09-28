@@ -5,19 +5,5 @@ date: 2024-01-12 00:01:00 +0800
 ---
 
 <div class="p-4">
-    <h2>Welcome to Showcase!</h2>
-    <hr />
-    <p>
-        <code>Showcase</code> is a page where you can show off almost anything you want. It can be the photo of your pets, your favorite books, your favorite projects, or anything else you want to show to the world.
-    </p>
-    <p>
-        You can create a new showcase item by creating a new file in the <code>_showcase</code> folder. It gives you the highest flexibility to customize the item using any HTML code.
-    </p>
-    <p>
-        Cards are ordered by the <code>date</code> field in the front matter in descending order. The <code>width</code> field is used to determine the width of the card, ranging from 1 to 12.
-        Layout is done by the <a href="https://masonry.desandro.com/" target="_blank">Masonry</a> library.
-    </p>
-    <p>
-        For a tidy layout, it is recommended to set the width of the cards to be either multiple of 3 or multiple of 4 for all cards, except for small badges that do not take up much space (width=1).
-    </p>
+    <h3>At my REU, my research centered on star formation in the Rosette Molecular Cloud (RMC), with Professor Jason E. Ybarra. Previously, astronomers thought that the stars in the RMC formed due to triggered star formation, but more recent work shows that the stars are too close in age for that to be true. To investigate this, I wrote code to extract the 70, 160, 250, and 350 µm fluxes from archival Herschel PACS and SPIRE observations and completed pixel-by-pixel blackbody fitting for the selected wavelengths to model and map the dust temperature and gas column density within the cloud. Read more at https://ui.adsabs.harvard.edu/abs/2025MNRAS.543.1196V/abstract.</h3>
 </div>
