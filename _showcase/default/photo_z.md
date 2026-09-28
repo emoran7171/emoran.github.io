@@ -1,10 +1,10 @@
 ---
 show: true
-width: 6
+width: 8
 date: 2026-01-12 00:01:00 +0800
 ---
 
 <div class="p-4">
-    <h1>SDSS Machine Learning Photometric Redshift Estimation</h1>
+    <h3>SDSS Machine Learning Photometric Redshift Estimation</h3>
     <p> My primary undergraduate research focused on furthering our understanding of machine learning (ML) techniques in astrophysics, specifically for photometric redshift (photo-z) estimators. Our current best photo-z's are estimated via deep learning algorithms, but due their the black-box nature (re: they work with millions of parameters and complex structures) their processes difficult to interpret-- it isn't yet clear why they are outperforming classical ML methods. To shine a light into the box, I utilizing a variety of statistical and ML methods (Spearman and Pearson correlations, random forests, self-organizing maps, UMAP), to discover that non-deep-learning methods exhibit a color-dependent attenuation bias when restricted subsets are analyzed that are not readily apparent in the global data set; deep learning methods do not exhibit the same problem. Attenuation bias is a common ML bias due to errors in the input. We hypothesize that deep learning algorithms using images as inputs extract more pixel-level information than classical ML methods that use photometry as input. You can read more on this subject and our findings in <a href="https://ui.adsabs.harvard.edu/abs/2026ApJ...997...36M/abstract">Moran et al. 2026 </a> </p>
 </div>
