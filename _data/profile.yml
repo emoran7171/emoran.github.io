@@ -50,6 +50,6 @@ education:
 awards:
 - name: National Science Foundation Graduate Research Fellowship
   date: 2026
-- name: NASA Pennsylvania Space Grant 
-  date: 2023 - 2025
-  date: 2021
+- #name: NASA Pennsylvania Space Grant 
+  #date: 2023 - 2025
+  #date: 2021
