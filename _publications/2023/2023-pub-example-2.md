@@ -1,24 +1,51 @@
 ---
-title:          "Pharetra Massa Massa Ultricies Mi Nisl Tincidunt"
-date:           2023-01-21 00:01:00 +0800
-selected:       false
-pub:            "International Conference on Learning Representations (ICLR)"
-pub_date:       "2023"
-semantic_scholar_id: 11ac0b5634a282f1a0da204b98e7473d8b480dfb  # use this to retrieve citation count
-abstract: >-
-  Photo by Dessy Dimcheva on Unsplash. Please keep the description of your publication as brief as possible. 1~2 sentences is ideal. Otherwise, it will look too noisy. This is a <strong>counterexample</strong> to show how the publication will look like when the abstract is too long.
-  The tangerine is a type of citrus fruit that is orange in color, that is considered either a variety of Citrus reticulata, the mandarin orange, or a closely related species, under the name Citrus tangerina, or yet as a hybrid (Citrus × tangerina) of mandarin orange varieties, with some pomelo contribution.
-  According to the Oxford English Dictionary (OED), the word "tangerine" was originally an adjective meaning "Of or pertaining to, or native of Tangier, a seaport in Morocco, on the Strait of Gibraltar" and "a native of Tangier." The name was first used for fruit coming from Tangier, Morocco, described as a mandarin variety. The OED cites this usage from Addison's The Tatler in 1710 with similar uses from the 1800s. The adjective was applied to the fruit, once known scientifically as "Citrus nobilis var. tangeriana" which grew in the region of Tangiers. This usage appears in the 1800s.
+title:          "SDSS-V Local Volume Mapper (LVM): revealing the structure of the Rosette Nebula"
+date:           2025-09-08 00:01:00 +0800
+selected:       true
+pub:            "Monthly notices of royal astronomical society"
+# pub_pre:        "Submitted to "
+# pub_post:       'Under review.'
+# pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
+pub_date:       "2025"
 
-cover:          /assets/images/covers/cover2.jpg
+abstract: >-
+  The Rosette Nebula is a well-known H II region shaped by the interaction of gas with the OB stars of the NGC 2244 stellar
+association. Located within the remnant of a giant molecular cloud, it exhibits a complex structure of ionized gas, molecular
+material, dust, and embedded clusters. In 2023 October, the region was observed as part of the Sloan Digital Sky Survey V
+(SDSS-V) local volume mapper (LVM) integral field spectroscopy survey. Covering a radius of ∼ 1◦, the data set comprises
+33 326 spectra with spatially resolved information spanning 390–980 nm. We present a structural analysis of the ionized,
+molecular, and dusty components using multiwavelength observations: optical spectroscopy from SDSS-V LVM, 12CO emission
+from PMO/MWISP (submillimetre), and dust emission from Wide-field Infrared Survey Explorer (12 μm) and Herschel (farinfrared). These data sets were complemented with the positions of ionizing stars to study emission structures traced by H α, H β,
+[O III], [N II], and [S II] as well as the spatial distribution of line ratios (H α/H β, [O III]/H β, [N II]/H α, and [S II]/H α) relative to
+the surrounding molecular cloud. Our analysis reveals interaction zones between ionized and neutral gas, including filaments,
+globules, and dense regions with or without ongoing star formation. Radial and quadrant-based flux profiles further highlight
+morphological and ionization variations, supporting the scenario in which the Rosette Nebula evolved from a non-homogeneous
+molecular cloud with a thin, sheet-like structure.
+# cover:          /assets/images/covers/cover3.jpg
 authors:
-  - Charles Green (MIT)*
-  - John Doe*
-  - Robert White
-  - James Wang
-  - Your Name#
+  - Mónica A. Villa-Durango
+  - Jorge Barrera-Ballesteros
+  - Carlos G. Román-Zúñiga
+  - Emma R. Moran
+  - Jason E. Ybarra
+  - J. Eduardo Méndez-Delgado
+  - Niv Drory
+  - Kathryn Kreckel
+  - Hector Ibarra-Medel
+  - S. F. Sánchez
+  - Evelyn J. Johnston
+  - A. Roman-Lopes
+  - Jesús Hernandez
+  - José G. Fernández-Trincado
+  - Amelia M. Stutz
+  - William J. Henney
+  - A. Ghosh
+  - Sumit K. Sarbadhicary
+  - A. Z. Lugo-Aranda
+  - Dmitry Bizyaev
+  - Amy M. Jones
+  - Guillermo A. Blanc 
 links:
-  Paper: https://www.biorxiv.org
-  Code: https://github.com
-  Unsplash: https://unsplash.com/photos/orange-fruit-on-white-table-cloth-ISX_imp8t1o
+    NASA ADS: https://github.com/luost26/bubble-visual-hash
+  # Demo: https://luost26.github.io/bubble-visual-hash
 ---
