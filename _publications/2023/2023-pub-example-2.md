@@ -34,6 +34,6 @@ authors:
   - Amy M. Jones
   - Guillermo A. Blanc 
 links:
-    NASA ADS: https://github.com/luost26/bubble-visual-hash
+    NASA ADS: https://ui.adsabs.harvard.edu/abs/2025MNRAS.543.1196V/abstract
   # Demo: https://luost26.github.io/bubble-visual-hash
 ---
