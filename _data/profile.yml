@@ -5,7 +5,7 @@ navbar_name: "Emma Moran"
 positions:
 - name: Ph.D. Student
 - name: The Ohio State Univerisity 
-  logo: /assets/images/badges/ohio-state-logos-label-text-symbol-sticker-transparent-png-2135447.png  # Logo is optional
+  logo: /assets/images/badges/ohio-state-buckeyes-logo-png-transparent.png  # Logo is optional
 
 
 email: "moran.644@osu.edu"
@@ -31,7 +31,7 @@ portrait_caption: >-
 
 education:
 - name: The Ohio State University
-  logo: /assets/images/badges/ohio-state-logos-label-text-symbol-sticker-transparent-png-2135447.png
+  logo: /assets/images/badges/ohio-state-buckeyes-logo-png-transparent.png
   position: >- 
     Department of Astronomy <br/>
     Ph.D. Student
