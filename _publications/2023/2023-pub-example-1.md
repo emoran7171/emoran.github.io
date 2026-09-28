@@ -1,17 +1,37 @@
 ---
-title:          "Lorem ipsum: Dolor sit amet, consectetur adipiscing elit"
-date:           2023-01-05 00:01:00 +0800
+title:          "An Eclipse-Ballooning Study of Shadow Bands During the April 2024 Total Eclipse
+"
+date:           2026-07-26 00:01:00 +0800
 selected:       true
-pub:            "Nature Communications"
-pub_date:       "2023"
+ # pub:            "The Astrophysical Journal"
+# pub_pre:        "Submitted to "
+# pub_post:       'Under review.'
+# pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
+pub_date:       "2026"
+
 abstract: >-
-  Cover image is a photo by Thomas Renaud on Unsplash. The abstract of the publication is meant to be a TLDR (very brief summary with 1~2 sentences) of your paper.
-cover:          /assets/images/covers/cover1.jpg
+# cover:          /assets/images/covers/cover3.jpg
 authors:
-- Your Name*
-- Robert White*
-- John Doe
-- Charles Green (Stanford)
+  - Deskevich, Giana
+  - Bach, Norris
+  - Borysiak, Kristian
+  - Clark, Russell J.
+  - Coban, Louis W.
+  - Danko, Istvan
+  - Docherty, Luke
+  - Hatridge, Michael
+  - Malc, Howard
+  - Mesits, Boris
+  - Moran, Emma
+  - Nilsson, Mathilda
+  - Peterson, Jeffrey B.
+  - Potosky, Edward Michael
+  - Rao, Sandhya M.
+  -  Schindelheim, Peri
+  -  Turnshek, David
+  -  Velankar, Ameya
+  -  Young, Ryan
 links:
-  Paper: https://www.cell.com
+  NASA ADS: https://ui.adsabs.harvard.edu/abs/2026arXiv260113335D/abstract
+  # Demo: https://luost26.github.io/bubble-visual-hash
 ---
