@@ -2,7 +2,7 @@
 title:          "SDSS-V Local Volume Mapper (LVM): revealing the structure of the Rosette Nebula"
 date:           2025-09-08 00:01:00 +0800
 selected:       true
-pub:            "Monthly notices of royal astronomical society"
+pub:            "Monthly Notices of the Royal Astronomical Society"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
 # pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
