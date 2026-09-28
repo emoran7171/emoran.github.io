@@ -16,18 +16,18 @@ orcid: 0009-0002-1352-8296
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    I am a first year Ph.D. Astronomy student at The Ohio State University, primarily interested in observational and computational exoplanet studies. In particular, I am interested in studying the compositions of exoplanets and their host stars, especially by utilizing machine learning methods.
+    I am a first year Astronomy Ph.D. student at The Ohio State University, primarily interested in exoplanets— in particular, I am interested in studying the compositions of exoplanets and their host stars, especially by utilizing machine learning methods.
   </p>
   <p>
-    - I am actively planning a new project in this area, so please check back in late autumn of 2027 for an update regarding my current work!
+    I am actively planning a new project concerning spectral emulators for planetary host M dwarfs, so please check back in late autumn of 2027 for updates regarding my current work!
   </p>
   <p>
-    My primary previous work at The University of Pittsburgh with Jeff Newman & Brett Andrews centered on Machine Learning Photometric Redshift (photo-z) Estimation. My work primarily focused on improving our understanding of deep learning photo-z estimation algorithms (such as [link encap here]) through analysis of their outputs. Our results were published in <a href="https://iopscience.iop.org/article/10.3847/1538-4357/ae2ace">Moran et al 2026</a>.
+    Beyond research, I am very passionate about outreach and science communications, especially targeting my home region of northern Appalachia. In my spare time, I enjoy fiction writing, reading (currently reading The Count of Monte & Katabasis), and fashion design. 
   </p>
 
 portrait_url: /assets/images/photos/IMG_6195.JPG
-portrait_caption: >-
-  Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
+#portrait_caption: >-
+  #Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
 
 education:
 - name: The Ohio State University
@@ -50,6 +50,3 @@ education:
 awards:
 - name: National Science Foundation Graduate Research Fellowship
   date: 2026
-- #name: NASA Pennsylvania Space Grant 
-  #date: 2023 - 2025
-  #date: 2021
