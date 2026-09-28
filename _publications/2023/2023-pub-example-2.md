@@ -9,7 +9,7 @@ pub:            "Monthly notices of royal astronomical society"
 pub_date:       "2025"
 
 abstract: >-
-# cover:          /assets/images/covers/cover3.jpg
+cover:          /assets/images/covers/OIP.jpeg
 authors:
   - Mónica A. Villa-Durango
   - Jorge Barrera-Ballesteros
