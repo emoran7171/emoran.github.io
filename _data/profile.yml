@@ -5,7 +5,7 @@ navbar_name: "Emma Moran"
 positions:
 - name: Ph.D. Student
 - name: The Ohio State Univerisity 
-  logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
+  logo: /assets/images/badges/ohio-state-logos-label-text-symbol-sticker-transparent-png-2135447.png  # Logo is optional
 
 
 email: "moran.644@osu.edu"
@@ -25,19 +25,19 @@ short_bio: >-
     My primary previous work at The University of Pittsburgh with Jeff Newman & Brett Andrews centered on Machine Learning Photometric Redshift (photo-z) Estimation. My work primarily focused on improving our understanding of deep learning photo-z estimation algorithms (such as [link encap here]) through analysis of their outputs. Our results were published in <a href="https://iopscience.iop.org/article/10.3847/1538-4357/ae2ace">Moran et al 2026</a>.
   </p>
 
-portrait_url: /assets/images/photos/portrait.jpg
+portrait_url: /assets/images/photos/IMG_6195.JPG
 portrait_caption: >-
   Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
 
 education:
 - name: The Ohio State University
-  logo: /assets/images/badges/MIT_Social_circle.png
+  logo: /assets/images/badges/ohio-state-logos-label-text-symbol-sticker-transparent-png-2135447.png
   position: >- 
     Department of Astronomy <br/>
     Ph.D. Student
   date: Sep. 2024 - present
 - name: The University of Pittsburgh
-  logo: /assets/images/badges/PKU_red.png
+  logo: /assets/images/badges/University-Of-Pittsburgh-Logo-PNG-HD.png
   position: B.S. in Physics & Astronomy, Certificate in Science Communications
   date: Aug. 2021 - Apr. 2025
 
